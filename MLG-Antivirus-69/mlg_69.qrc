@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/mlg_69">
+        <file>res/bg.mp3</file>
+        <file>res/mlg_.ico</file>
+        <file>res/mlg_.png</file>
+    </qresource>
+</RCC>
